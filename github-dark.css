@@ -9,7 +9,6 @@
     --heading-color: #DEDEDE;
     --footer-bg-color: #262a30;
     --footer-color: #DEDEDE;
-    --control-text-color: #b7b7b7;
     --control-text-color: #eee;
     --hover-bg-color: red;
     --text-color: #ff930f;
@@ -21,8 +20,8 @@
 }
 
 :root {
-    --code-border-color: #925d29;
-    --code-bg-color: #363B40;
+    --code-border-color: #888888;
+    --code-bg-color: #333333;
 }
 
 @include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
@@ -138,13 +137,13 @@ h1 {
     padding-bottom: .3em;
     font-size: 2.25em;
     line-height: 1.2;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #888;
 }
 h2 {
    padding-bottom: .3em;
     font-size: 1.75em;
     line-height: 1.225;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #888;
 }
 h3 {
     font-size: 1.5em;
@@ -278,7 +277,7 @@ table tr td:last-child {
 }
 
 .CodeMirror-gutters {
-    border-right: 1px solid #ddd;
+    border-right: 0px solid #999;
 }
 
 .md-fences,
@@ -288,7 +287,8 @@ tt {
     background-color: var(--code-bg-color);
     border-radius: 3px;
     padding: 0;
-    font-family: Consolas, "Liberation Mono", Courier, monospace;
+    font-family: "Fira Code", Consolas, "Liberation Mono", Courier, monospace;
+    font-weight: 500;
     padding: 2px 4px 0px 4px;
     font-size: 0.9em;
 }
