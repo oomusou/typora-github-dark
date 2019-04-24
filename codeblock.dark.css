@@ -111,3 +111,7 @@
 .CodeMirror-gutters {
     border-right: none;
 }
+
+.CodeMirror-line .cm-comment {
+    color: #ffff00;
+}
