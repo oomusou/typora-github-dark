@@ -115,3 +115,11 @@
 .CodeMirror-line .cm-comment {
     color: #ffff00;
 }
+
+.CodeMirror-line .cm-tag, .CodeMirror-line .cm-string {
+    color: #FFDD00;
+}
+
+.cm-header.cm-header1, .cm-header.cm-header2 {
+    color: #FFF;
+}
