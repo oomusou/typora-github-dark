@@ -1,7 +1,6 @@
 ## Github Dark Theme for Typora
 
 1. Put `github-dark.css` in Typora's theme folder.
-2. Put `codeblock.dark.css` in `night` folder of Typora's theme folder.
 
 ## Feature
 1. Optimized for macOS Mojave dark mode.
