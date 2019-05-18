@@ -487,3 +487,19 @@ footer {
 .cm-s-inner .cm-property {
   color: #ffc76c;
 }
+
+.cm-s-typora-default .cm-comment {
+  color: #FFFF00;
+}
+
+.cm-s-typora-default .cm-string {
+  color: #4af2a1;
+}
+
+.cm-s-typora-default .cm-tag {
+  color: #4af2a1;
+}
+
+.cm-s-typora-default .cm-atom {
+  color: #bbbbbb;
+}
