@@ -1,7 +1,5 @@
 # GitHub Dark Theme for Typora
 
-***Sam Xiao, Feb.04, 2019***
-
 ## Overview
 
 Since macOS Mojave support dark mode, I've switched all my apps to dark mode. The only app not on dark mode is Typora. Although there are many dark mode themes support Typora, I didn't find any one I like. So I made this one. The best feature is to support `Fira Code` and `JetBrains Darcula`  theme for code snippet .
