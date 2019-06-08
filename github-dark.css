@@ -464,6 +464,10 @@ footer {
   color: #698658;
 }
 
+.cm-s-inner .cm-string-2 {
+  color: #698658;
+}
+
 .cm-s-inner .cm-keyword {
   color: #cc7832;
 }
