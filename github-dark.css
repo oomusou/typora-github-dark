@@ -492,6 +492,10 @@ footer {
   color: #ffc76c;
 }
 
+.cm-s-inner .cm-code {
+  color: yellow;
+}
+
 .cm-s-typora-default .cm-comment {
   color: #FFFF00;
 }
@@ -506,4 +510,8 @@ footer {
 
 .cm-s-typora-default .cm-atom {
   color: #bbbbbb;
+}
+
+table tr:nth-child(2n) {
+  background-color: #464B51;
 }
