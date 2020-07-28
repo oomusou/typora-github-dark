@@ -6,7 +6,6 @@ Since macOS Mojave support dark mode, I've switched all my apps to dark mode. Th
 
 ## Version
 
-Typora 0.9.9.34.2
 GitHub Dark Theme 0.1.1
 
 ## Feature
