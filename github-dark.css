@@ -63,6 +63,10 @@ body {
   color: var(--body-primary-color);
   line-height: 1.6;
 }
+ 
+body titlebar {
+  height: 30px !important;
+}
 
 #write {
   max-width: 860px;
